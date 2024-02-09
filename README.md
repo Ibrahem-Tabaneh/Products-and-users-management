@@ -27,33 +27,33 @@
 
 - Admin:
   
-1- Users Management Page (Default Page):
-‐ Delete user account.
-‐ Edit user data.
-‐ Disable user account.
-‐ Enable user account.
-‐ Bulk disable user accounts.
-‐ Bulk enable user accounts.
-‐ View admin accounts (Default Page).
-‐ Profile button for the admin.
-‐ Logout button.
-‐ Button to navigate to the Product Management page.
+   1- Users Management Page (Default Page):
+  ‐ Delete user account.
+  ‐ Edit user data.
+  ‐ Disable user account.
+  ‐ Enable user account.
+  ‐ Bulk disable user accounts.
+  ‐ Bulk enable user accounts.
+  ‐ View admin accounts .
+  ‐ Profile button for the admin.
+  ‐ Logout button.
+  ‐ Button to navigate to the Product Management page.
 
-2- Products Management Page:
-‐ Delete product.
-‐ Add product.
-‐ Edit product.
-‐ Search for a product.
-‐ View users interested in this product.
-‐ View product details.
+  2- Products Management Page:
+  ‐ Delete product.
+  ‐ Add product.
+  ‐ Edit product.
+  ‐ Search for a product.
+  ‐ View users interested in this product.
+  ‐ View product details.
 
 
-- User:
-‐ Create a new account (disabled by default).
-‐ Log in and wait for account activation by the admin.
-‐ User page: Display products with a button to view product details.
-‐ Button "Interested" to add the product to the user's interests.
-‐ Button to cancel user's interest in the product.
-‐ Profile button.
-‐ Logout button.
+  - User:
+  ‐ Create a new account (disabled by default).
+  ‐ Log in and wait for account activation by the admin.
+  ‐ User page: Display products with a button to view product details.
+  ‐ Button "Interested" to add the product to the user's interests.
+  ‐ Button to cancel user's interest in the product.
+  ‐ Profile button.
+  ‐ Logout button.
 
