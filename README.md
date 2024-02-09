@@ -12,11 +12,11 @@
 
 ## Project installation
 
-- #cd project- 
+- #cd project
 - #run composer install
-- #change .env.example to .env.
-- #Run php artisan key:generate.
-- #Run php artisan migrate.
+- #change .env.example to .env
+- #Run php artisan key:generate
+- #Run php artisan migrate
 
 
 ## About Laravel
