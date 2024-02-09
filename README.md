@@ -20,6 +20,7 @@
 
 ## Notes
 - to add first admin Follow the following steps:
+- run project
 - create user from sign up
 - go to database and edit these fields:is_admin=1 , is_active=1
   
