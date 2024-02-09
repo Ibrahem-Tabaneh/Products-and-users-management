@@ -47,7 +47,7 @@
 ‐ View product details.
 
 
--User:
+- User:
 ‐ Create a new account (disabled by default).
 ‐ Log in and wait for account activation by the admin.
 ‐ User page: Display products with a button to view product details.
