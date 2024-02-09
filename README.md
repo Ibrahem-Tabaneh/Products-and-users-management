@@ -19,13 +19,13 @@
 - #Run php artisan migrate
 
 ## Notes
-to add first admin Follow the following steps:
-1-create user from sign up
-2-go to database and edit these fields:is_admin=1 , is_active=1
+- to add first admin Follow the following steps:
+- create user from sign up
+- go to database and edit these fields:is_admin=1 , is_active=1
   
 ## Description
 
-Admin:
+- Admin:
 1‐ User Management Page (Default Page):
 ‐ Delete user account.
 ‐ Edit user data.
@@ -37,8 +37,8 @@ Admin:
 ‐ Profile button for the admin.
 ‐ Logout button.
 ‐ Button to navigate to the Product Management page.
-
-2‐ Product Management Page:
+- ........................................................
+‐ Product Management Page:
 ‐ Delete product.
 ‐ Add product.
 ‐ Edit product.
