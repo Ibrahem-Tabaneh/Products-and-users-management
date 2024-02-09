@@ -26,7 +26,7 @@
 ## Description
 
 - Admin:
-1‐ User Management Page (Default Page):
+1‐ User Management Page (Default Page).
 ‐ Delete user account.
 ‐ Edit user data.
 ‐ Disable user account.
