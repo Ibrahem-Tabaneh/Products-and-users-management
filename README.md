@@ -37,7 +37,7 @@
 ‐ Profile button for the admin.
 ‐ Logout button.
 ‐ Button to navigate to the Product Management page.
-- ........................................................
+
 ‐ Product Management Page:
 ‐ Delete product.
 ‐ Add product.
