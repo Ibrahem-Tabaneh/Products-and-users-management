@@ -35,7 +35,7 @@
   ‐ Bulk disable user accounts.
   ‐ Bulk enable user accounts.
   ‐ View admin accounts .
-  ‐ Profile button for the admin.
+  ‐ Profile button.
   ‐ Logout button.
   ‐ Button to navigate to the Product Management page.
 
@@ -49,8 +49,9 @@
 
 
 - User:
+  
   ‐ Create a new account (disabled by default).
-  ‐ Log in and wait for account activation by the admin.
+  ‐ Login
   ‐ User page: Display products with a button to view product details.
   ‐ Button "Interested" to add the product to the user's interests.
   ‐ Button to cancel user's interest in the product.
