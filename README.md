@@ -26,7 +26,7 @@
 ## Description
 
 - Admin:
-1‐ User Management Page (Default Page).
+ - User Management Page (Default Page).
 ‐ Delete user account.
 ‐ Edit user data.
 ‐ Disable user account.
@@ -38,7 +38,7 @@
 ‐ Logout button.
 ‐ Button to navigate to the Product Management page.
 
-2‐ Product Management Page:
+- Product Management Page:
 ‐ Delete product.
 ‐ Add product.
 ‐ Edit product.
